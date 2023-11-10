@@ -1,0 +1,103 @@
+body{
+    background-image:url(empty-showcase-abstract-pastel-color-background-3d-illustration-free-vector.jpg);
+    background-size: cover;
+}
+
+#froms{
+    text-align: center;
+}
+
+
+.keyvan{
+border-radius: 20px;
+padding: 1px;
+margin-left: 4px;
+margin-top: 20px;
+border-style: ridge;
+background-color: springgreen;
+width: 100px;
+
+
+
+
+}
+
+.keyvan:hover{
+    color: black;
+     cursor: pointer;
+     background-color: cyan;
+    
+
+}
+
+
+/* .ab{
+    border-radius: 20px;
+    padding: 7px;
+    border-style: inherit;
+    background-color: red;
+    
+   
+لغو
+
+}
+
+.ab:hover{
+    color: black;
+    background-color: white;
+   
+   
+
+    
+    
+} */
+
+/* .div1{
+    background-color: yellowgreen;
+    height: 60px;
+    text-align: center;
+    direction: ltr;
+    padding-top: 20px;
+    margin-top: 400px;
+    font-size: 16px;
+    color: white;
+    
+
+  
+   
+
+} */
+
+/* .div1:hover{
+
+    background-color: white;
+
+
+} */
+
+
+#hh{
+    color: black;
+    text-align:center;
+    direction: rtl;
+    
+}
+
+#name{
+   border-radius: 20px;
+   background-color:hsl(174, 49%, 37%) ;
+   
+   
+}
+#password{
+    border-radius: 20px;
+    background-color:hsl(174, 49%, 37%);
+}
+.imgg{
+    text-align: center;
+}
+
+
+ /* cursor: pointer;
+
+  /* cursor: pointer; 
