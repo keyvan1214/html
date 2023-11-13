@@ -7,6 +7,7 @@ header{
     left: 0;
     width: 100%;
     
+    
     }
     body{
         background-image: url(c9327729dcba78fadd30fb0fa31e2723.jpg);
@@ -17,19 +18,23 @@ header{
     #vv,.footerr{
         background-color: #3d405b;
     }
-    #h11{
+    #vv{
+        bottom: 390px;
+    }
+    .h11{
         margin-top: 20px;
         top: 40px;
        text-shadow: 2px 2px 2px teal;
     
         
     }
-    #kk{
-        margin-top: 70px;
-    
-        font-size: 18px;
+    .kk{
+        
+        
+        font-size: 17px;
         color: white;
     }
+   
     
     .ke{
         color: white;
