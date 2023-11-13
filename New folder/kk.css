@@ -22,6 +22,8 @@ header{
         bottom: 390px;
     }
     .h11{
+        
+        
         margin-top: 20px;
         top: 40px;
        text-shadow: 2px 2px 2px teal;
@@ -30,6 +32,8 @@ header{
     }
     .kk{
         
+        position: fixed;
+        top: 64px;
         
         font-size: 17px;
         color: white;
@@ -157,8 +161,10 @@ header{
     
         }
         .imgkeyvan{
-            text-align: center;
+            /* text-align: center; */
             direction: ltr;
             padding-left: 1000px;
+            position: fixed;
+            top: 40px;
 
         }
