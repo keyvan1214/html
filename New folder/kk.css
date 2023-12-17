@@ -9,11 +9,11 @@ header{
     
     
     }
-    body{
+    /* body{
         background-image: url(c9327729dcba78fadd30fb0fa31e2723.jpg);
         background-size: cover;
        
-    }
+    } */
 
     #vv,.footerr{
         background-color: #3d405b;
@@ -24,8 +24,8 @@ header{
     .h11{
         
         
-        margin-top: 20px;
-        top: 40px;
+        margin-top: 0px;
+        top: 100px;
        text-shadow: 2px 2px 2px teal;
     
         
@@ -167,4 +167,30 @@ header{
             position: fixed;
             top: 40px;
 
+        }
+        
+        body{
+        background-image: url(c9327729dcba78fadd30fb0fa31e2723.jpg);
+        background-size: cover;
+       
+    }
+
+    .changeMode{
+        margin-left: 1200px;
+        border: 2px solid seagreen;
+        box-shadow:  aqua;
+        color: black;
+        border-radius: 10px;
+        background-color: darkred;
+        
+    }
+    .changeMode:hover{
+        background-color: aqua;
+        color: black;
+        border: 2px solid rebeccapurple;
+    }
+        
+        .dark {
+            background-image: url(images.jpg);
+            background-size: cover;
         }
